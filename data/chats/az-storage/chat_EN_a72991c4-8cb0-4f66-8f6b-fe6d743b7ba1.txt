@@ -1,0 +1,59 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: a72991c4-8cb0-4f66-8f6b-fe6d743b7ba1
+SessionId: XJ392KD4
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-12T14:03:21Z
+EndTime: 2024-06-12T14:48:09Z
+ProductId: 77421631-3c75-464a-bffd-19e0947110e9
+Product: Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange L
+AgentId: 4fb67ce6-8152-4e61-9278-3f6e776d3f6c
+Agent: Bobbie Schowalter | guadalupe.botsford@zava.com | 361.603.0530 x80123
+CustomerId: f1b34fc0-de3b-4ceb-a505-326533026f9a
+Customer: Sandra Feeney | Sandra_Feeney83@yahoo.com | 1-206-686-3882
+CustomerAddress: 492 Lakeview Ct, Manleybury, ND 58401, USA
+CustomerDOB: 08/19/1983
+LoyaltyId: ZAVA88392017
+OrderNumber: ORD-9823746-US
+Payment: Card VISA 4929123876541023 | Exp 07/26
+
+[2024-06-12 14:03:21] Customer: Hi, I just received my Aura Field jacket and there seems to be an issue with the heating element.
+[2024-06-12 14:04:10] Agent (Bobbie): Hi Sandra, thanks for reaching out. Could you describe the issue in detail?
+[2024-06-12 14:05:02] Customer: Sure. When I turn it on, the lights come on but the heating zones don't warm at all.
+[2024-06-12 14:06:15] Agent (Bobbie): I see. Let me confirm your order for troubleshooting. One sec.
+*** AUTH VERIFIED via one-time code sent to S******83@yahoo.com
+[2024-06-12 14:07:40] Agent (Bobbie): Order ORD-9823746-US placed on June 4th, shipped June 6th, correct?
+[2024-06-12 14:07:55] Customer: Yes, that's right.
+[2024-06-12 14:08:42] Agent (Bobbie): Great. Have you tried charging it fully before use?
+[2024-06-12 14:09:03] Customer: Yes, overnight; the battery indicator shows full.
+[2024-06-12 14:10:17] Agent (Bobbie): Understood. Sometimes the internal connection can loosen during shipping. Can we try a reset?
+[2024-06-12 14:10:40] Customer: Okay, how do we do that?
+[2024-06-12 14:12:05] Agent (Bobbie): Disconnect the battery pack, hold the power button for 15 seconds, reconnect, then power on.
+[2024-06-12 14:13:28] Customer: Just tried it… still lights but no heat.
+[2024-06-12 14:14:43] Agent (Bobbie): Sounds like a faulty heating module. We can replace it under warranty.
+[2024-06-12 14:15:11] Customer: Good. I really needed this for a hiking trip next week.
+[2024-06-12 14:16:22] Agent (Bobbie): We can expedite the replacement. May I confirm your shipping address as 492 Lakeview Ct, Manleybury, ND 58401?
+[2024-06-12 14:16:39] Customer: Yes, same address.
+[2024-06-12 14:17:10] Agent (Bobbie): Noted. Do you still have the original packaging?
+[2024-06-12 14:17:24] Customer: Yes, I kept it.
+*** RMA CREATED: RMA-7742-ND-49823
+[2024-06-12 14:18:40] Agent (Bobbie): I've created RMA-7742-ND-49823; a prepaid label will be emailed within an hour.
+[2024-06-12 14:19:01] Customer: Okay, thanks. Will the replacement ship today?
+[2024-06-12 14:19:55] Agent (Bobbie): Yes, it'll go out with UPS 2-Day shipping.
+[2024-06-12 14:20:17] Customer: Perfect.
+[2024-06-12 14:21:33] Agent (Bobbie): You'll receive tracking by 6 PM.
+[2024-06-12 14:22:00] Customer: Many thanks, Bobbie.
+[2024-06-12 14:22:28] Agent (Bobbie): Happy to help! Anything else I can do?
+[2024-06-12 14:22:42] Customer: No, that covers it.
+[2024-06-12 14:23:00] Agent (Bobbie): Great, have a safe hiking trip!
+[2024-06-12 14:23:12] Customer: Will do. Bye.
+[2024-06-12 14:23:20] Agent (Bobbie): Goodbye Sandra.
+
+---
+Session Summary: Customer reported defective heating element in jacket. Basic troubleshooting unsuccessful; RMA issued with expedited replacement.
+Case Number: CS-20240612-9283
+Disposition: Warranty Replacement
+Handling Tags: warranty, expedited, heating_module_issue
+Agent Sign-off: Bobbie Schowalter

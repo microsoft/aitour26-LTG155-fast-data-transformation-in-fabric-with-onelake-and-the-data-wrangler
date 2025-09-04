@@ -1,0 +1,60 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: d583db5e-166f-40e9-872f-2f6c204e7ce1
+SessionId: S3821
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-11T14:03:25Z
+EndTime: 2024-06-11T14:29:47Z
+ProductId: 0e34558b-182a-4021-b82c-82fe293b97d2
+Product: Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange M
+AgentId: 73293ab1-d061-4817-83cf-84b9f4aa7edb
+Agent: Parker Ullrich | cordell.gutmann@zava.com | (572) 332-9706
+CustomerId: 2c6747a4-9885-4b5f-b4bf-8538d18d3bc4
+Customer: Brendan Blick | Brendan.Blick@hotmail.com | (541) 476-6200 x61350
+CustomerAddress: 1439 Elmwood Drive, Darylland, CT 06422, USA
+CustomerDOB: 09/14/1985
+LoyaltyId: ZX984512347
+OrderNumber: ORD-883174-AF
+Payment: Card Visa 4539682745123698 | Exp 07/27
+
+[2024-06-11 14:03:25] Customer: Hi there, I just received my jacket but there seems to be a problem.
+[2024-06-11 14:03:44] Agent (Parker): Hello Brendan, this is Parker from Zava customer care. Could you describe the issue?
+[2024-06-11 14:04:12] Customer: The illumination feature isn’t working at all. Followed the manual.
+[2024-06-11 14:04:36] Agent (Parker): Sorry to hear that. Let me verify your order.
+*** AUTH VERIFIED via one-time code sent to bren****@hotmail.com
+[2024-06-11 14:05:43] Agent (Parker): I've pulled up ORD-883174-AF, purchased last week and delivered yesterday.
+[2024-06-11 14:06:05] Customer: Yes, that’s right. Arrived in Darylland yesterday afternoon.
+[2024-06-11 14:06:39] Agent (Parker): Have you tried charging the battery pack for at least 3 hours before testing?
+[2024-06-11 14:07:01] Customer: I did, full charge overnight. Still nothing.
+[2024-06-11 14:07:29] Agent (Parker): Thank you for confirming. Let's do a quick reset test.
+[2024-06-11 14:08:13] Customer: Okay, go ahead.
+[2024-06-11 14:08:48] Agent (Parker): Disconnect battery pack, hold the power button on the jacket sleeve for 10 seconds, then reconnect and power on.
+[2024-06-11 14:09:56] Customer: Just tried that... still dark. The rest of the jacket is fine though.
+[2024-06-11 14:10:21] Agent (Parker): Sounds like a defective LED strip. I'll arrange a replacement.
+*** CASE ESCALATED to Tier 2
+[2024-06-11 14:11:15] Customer: Is that going to take long? I planned to use it on a hiking trip next week.
+[2024-06-11 14:11:57] Agent (Parker): We'll expedite. I can get the replacement shipped within 24 hours via priority.
+[2024-06-11 14:12:22] Customer: That would be great.
+[2024-06-11 14:12:56] Agent (Parker): Please confirm shipping address: 1439 Elmwood Drive, Darylland, CT 06422, USA
+[2024-06-11 14:13:08] Customer: Correct.
+*** RMA CREATED: RMA-774512
+[2024-06-11 14:13:55] Agent (Parker): The RMA is set. Please return your defective jacket using the prepaid label.
+[2024-06-11 14:14:13] Customer: Will do. Should I use same packaging?
+[2024-06-11 14:14:32] Agent (Parker): Yes, if available; otherwise any secure package works.
+[2024-06-11 14:15:09] Customer: OK, can you email me the label?
+[2024-06-11 14:15:21] Agent (Parker): Sent to Brendan.Blick@hotmail.com.
+[2024-06-11 14:16:43] Customer: Got it. Thank you.
+[2024-06-11 14:17:00] Agent (Parker): Anytime, Brendan. Expect the replacement tomorrow or by Thursday.
+[2024-06-11 14:17:28] Customer: Appreciate the prompt help.
+[2024-06-11 14:17:46] Agent (Parker): Safe travels on your hike.
+[2024-06-11 14:17:58] Customer: Cheers, goodbye.
+[2024-06-11 14:18:10] Agent (Parker): Goodbye.
+
+--- SESSION SUMMARY ---
+CaseNumber: CAS-2047815
+Disposition: Defective item - replacement initiated
+HandlingTags: product_defect, illuminated_feature, expedited_shipping, rma
+AgentNotes: Customer reported non-functional illumination; troubleshooting failed; RMA and replacement arranged.
+AgentSignOff: Parker Ullrich, Zava Customer Care

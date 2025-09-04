@@ -1,0 +1,54 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: f9a73b13-f8fe-4e0c-b913-9248d37aba9a
+SessionId: 7FJ29A
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-12T14:02:17Z
+EndTime: 2024-06-12T14:38:54Z
+ProductId: 30280c74-3a3f-4d39-b8ac-902d2457b802
+Product: Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack XL
+AgentId: 13a5b370-63cd-4989-88aa-947da48b5f25
+Agent: Valentine Berge | dana.block@zava.com | 811-763-9310
+CustomerId: d756ec86-ea58-4500-b887-0b5321e2a742
+Customer: Marcos Lueilwitz | Marcos_Lueilwitz37@hotmail.com | 1-637-726-0286
+CustomerAddress: 418 West Mill St, Boscotown, OH 43123, USA
+CustomerDOB: 03/11/1985
+LoyaltyId: ZAVA2928835
+OrderNumber: ORD-923741-AF
+Payment: Card Visa 4929123490128891 | Exp 08/27
+
+[2024-06-12 14:02:17] Customer: Hi, I received my Aura Field Elite fleece hoodie this morning but it seems to have a stitching defect on the left sleeve.
+[2024-06-12 14:02:36] Agent (Valentine): Hello Marcos, I'm sorry to hear that about your new hoodie. Let me check your order. Can you confirm the order number and shipping ZIP?
+[2024-06-12 14:03:01] Customer: Sure, order number is ORD-923741-AF and ZIP is 43123.
+*** AUTH VERIFIED via one-time code sent to m************@hotmail.com
+[2024-06-12 14:03:42] Agent (Valentine): Thank you. I see your order placed on June 8th, delivered today via UPS. Could you describe the defect in more detail?
+[2024-06-12 14:04:12] Customer: The inside seam on the left forearm is loose, there’s a gap of about 2 inches where the stitching missed.
+[2024-06-12 14:04:48] Agent (Valentine): Understood. That would definitely qualify for a replacement under our quality guarantee.
+[2024-06-12 14:05:10] Customer: That’s good to know. I love the feel of it otherwise, so I'd like a replacement.
+[2024-06-12 14:05:29] Agent (Valentine): Of course. I’ll create an RMA and send you a prepaid label so you can return it.
+*** RMA CREATED: RMA-7749821
+[2024-06-12 14:06:18] Agent (Valentine): Your RMA number is RMA-7749821. You’ll receive a PDF label in your email within the next 5 minutes.
+[2024-06-12 14:06:42] Customer: Will the replacement be shipped after you get the return or right away?
+[2024-06-12 14:07:10] Agent (Valentine): We usually send replacements after the return is scanned in transit by the carrier. If you drop it off today, it should ship tomorrow.
+[2024-06-12 14:07:49] Customer: Got it. And the size and color will be the same?
+[2024-06-12 14:08:05] Agent (Valentine): Yes, same Aura Field Elite Hoodie, Orange/Black XL.
+[2024-06-12 14:08:39] Customer: Cool. Hopefully the next one has no issues. The fleece is exactly what I needed for evening runs.
+[2024-06-12 14:09:02] Agent (Valentine): Glad to hear that. We appreciate your patience. Is there anything else I can help with today?
+[2024-06-12 14:09:17] Customer: Since I’m giving feedback—maybe the packaging could be more secure, the bag was partly torn.
+[2024-06-12 14:09:49] Agent (Valentine): I’ll log that as feedback for the fulfillment center.
+[2024-06-12 14:10:02] Customer: Thanks, Valentine.
+[2024-06-12 14:10:15] Agent (Valentine): You're welcome, Marcos. Once you get the label, just follow the return instructions provided.
+[2024-06-12 14:10:39] Customer: Okay, I just saw the email come through. All set.
+[2024-06-12 14:10:58] Agent (Valentine): Great! We’ll lookout for your return.
+[2024-06-12 14:11:14] Customer: Appreciate the prompt help.
+[2024-06-12 14:11:28] Agent (Valentine): Happy to assist. Enjoy the rest of your day.
+[2024-06-12 14:11:40] Customer: You too.
+
+--- SESSION SUMMARY ---
+Case#: CS-493821
+Summary: Customer reported stitching defect on new hoodie. Replacement arranged via RMA.
+Disposition: Resolved - Replacement Pending
+Tags: [RMA, ProductDefect, Feedback-Packaging]
+Agent Sign-off: Valentine Berge, Customer Experience Specialist, Zava Inc.

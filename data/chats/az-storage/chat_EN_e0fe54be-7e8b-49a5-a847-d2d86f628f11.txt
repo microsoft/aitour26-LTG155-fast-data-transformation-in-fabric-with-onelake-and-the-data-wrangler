@@ -1,0 +1,54 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: e0fe54be-7e8b-49a5-a847-d2d86f628f11
+SessionId: XJ72K4
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-11T14:02:18Z
+EndTime: 2024-06-11T14:47:59Z
+ProductId: 95b43b54-f323-4c36-bfa3-87ad78f1b5c6
+Product: Aura Field Elite Athletic Long Sleeve Top - DeepRedRed S
+AgentId: 00cfa95e-6405-4c58-a007-457afb82929d
+Agent: Lenna Torphy | domingo.beahan@zava.com | 471.419.2071
+CustomerId: 526010d2-caa9-4d51-b9b8-c59a33b1fe12
+Customer: Eva Predovic | Eva_Predovic@gmail.com | 1-634-610-2591 x338
+CustomerAddress: 1948 Marjorie Cir, Port Savanahtown, MT 59701, USA
+CustomerDOB: 03/14/1983
+LoyaltyId: ZAVA98347291
+OrderNumber: ORD-458221-A
+Payment: Card Visa 4929123456789012 | Exp 09/27
+
+[2024-06-11 14:02:18] Customer: Hi, I received my Aura Field Elite top today, but it looks like the stitching on one sleeve is already coming apart.
+[2024-06-11 14:03:05] Agent (Lenna): Hello Eva, I’m sorry to hear about that. Let me assist you with resolving the defect issue. Could I please verify your order number?
+[2024-06-11 14:03:20] Customer: Sure, it's ORD-458221-A.
+[2024-06-11 14:03:49] Agent (Lenna): Thank you. And to confirm, the shipping address was 1948 Marjorie Cir, Port Savanahtown, MT 59701?
+[2024-06-11 14:04:01] Customer: Yes, that's correct.
+*** AUTH VERIFIED via one-time code sent to e***@gmail.com
+[2024-06-11 14:04:59] Agent (Lenna): Perfect. I see your order here. Could you describe the defect in more detail and, if possible, attach a photo?
+[2024-06-11 14:05:22] Customer: The inner seam at the wrist has come loose, leaving a small hole. I’ll upload a photo now.
+[2024-06-11 14:06:37] Agent (Lenna): I’ve received the image, thank you. Yes, that’s certainly below our quality standard.
+[2024-06-11 14:07:14] Customer: This was supposed to be for a race next week, so I’m a bit concerned about timing.
+[2024-06-11 14:07:59] Agent (Lenna): Understood. Let’s expedite a replacement for you via 2-day shipping.
+[2024-06-11 14:08:30] Customer: That would be great, as long as it arrives before Sunday.
+[2024-06-11 14:09:12] Agent (Lenna): I’ll process the RMA now.
+*** RMA CREATED: RMA-7754983
+[2024-06-11 14:09:47] Agent (Lenna): You’ll receive a prepaid return label in your email within the next hour. Please drop the defective item at any USPS location.
+[2024-06-11 14:10:03] Customer: Will do. Thanks for handling this quickly.
+[2024-06-11 14:10:45] Agent (Lenna): Of course. For inconvenience, I’m adding 500 ZAVA loyalty points to your account.
+[2024-06-11 14:11:09] Customer: That’s appreciated. By the way, I ordered size S, but lately I’ve been between S and M. If possible, could you send the replacement in M?
+[2024-06-11 14:11:48] Agent (Lenna): Yes, I can update the replacement to Medium.
+[2024-06-11 14:12:07] Customer: Thank you so much.
+[2024-06-11 14:12:32] Agent (Lenna): New order placed: ORD-458221-A-REPL. Tracking will be emailed by this evening.
+[2024-06-11 14:13:15] Customer: Great. One last thing—do I return the damaged one before the replacement is sent?
+[2024-06-11 14:13:44] Agent (Lenna): No, we’ll ship the replacement first due to the time constraint. Just return the damaged one within 14 days.
+[2024-06-11 14:14:11] Customer: Makes sense.
+[2024-06-11 14:15:08] Agent (Lenna): Anything else I can assist with?
+[2024-06-11 14:15:29] Customer: No, that covers it. Thanks again for the quick help, Lenna.
+[2024-06-11 14:15:53] Agent (Lenna): You’re very welcome, Eva. Good luck in your race!
+
+--- SESSION SUMMARY ---
+CaseNumber: CAS-924884
+Disposition: Replacement initiated, RMA issued
+HandlingTags: product-defect, expedited-shipping, loyalty-points
+AgentSignOff: Thank you for contacting Zava Inc. Have a great day!

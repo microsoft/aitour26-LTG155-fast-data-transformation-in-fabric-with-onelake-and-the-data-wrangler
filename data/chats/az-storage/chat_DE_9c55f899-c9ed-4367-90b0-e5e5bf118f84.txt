@@ -1,0 +1,49 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 9c55f899-c9ed-4367-90b0-e5e5bf118f84
+SessionId: DE2841
+Channel: WebChat
+Locale: de-DE
+StartTime: 2024-06-16T08:42:15Z
+EndTime: 2024-06-16T09:18:47Z
+ProductId: 228fdcb2-76d0-40d0-bc39-f93357f20c7f
+Product: Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite S
+AgentId: 934246ab-7af8-4a93-a2ba-89e966cadccf
+Agent: Morris Lind | coby.labadie@zava.com | 1-699-288-1736
+CustomerId: 8e41b5fa-d240-4838-8956-7a5755f59e24
+Customer: Randal Koss | Randal84@hotmail.com | 799-962-9119 x2280
+CustomerAddress: 42 Main Street, Flatleybury, AR 72601, USA
+CustomerDOB: 04/19/1984
+LoyaltyId: ZAVA987654321
+OrderNumber: ORD-DE-4429118
+Payment: Card VISA 4532123412341234 | Exp 07/26
+
+[2024-06-16 08:42:15] Customer: Guten Morgen, ich habe gestern mein bestelltes Shirt erhalten, aber es ist die falsche Größe.
+[2024-06-16 08:42:31] Agent (Morris): Guten Morgen Herr Koss, das tut mir leid zu hören. Was haben Sie ursprünglich bestellt?
+[2024-06-16 08:42:59] Customer: Ich hatte Größe S bestellt, bekommen habe ich Größe M.
+[2024-06-16 08:43:15] Agent (Morris): Verstanden. Lassen Sie mich schnell die Bestelldetails prüfen.
+*** AUTH VERIFIED via one-time code sent to R***4@hotmail.com
+[2024-06-16 08:44:10] Agent (Morris): Ja, tatsächlich wurde Größe S bestellt. Es könnte ein Verpackungsfehler sein.
+[2024-06-16 08:44:39] Customer: Passiert sowas öfter? Ist ein bisschen ärgerlich, da es ein Geschenk ist.
+[2024-06-16 08:45:12] Agent (Morris): Selten, aber es kommt gelegentlich vor. Ich kann direkt einen Umtausch einleiten.
+[2024-06-16 08:45:51] Customer: Wie lange dauert das?
+[2024-06-16 08:46:07] Agent (Morris): Normalerweise 5–7 Werktage nach Eingang der Rücksendung.
+[2024-06-16 08:46:26] Customer: Hm, knappp. Der Geburtstag ist nächste Woche.
+[2024-06-16 08:47:12] Agent (Morris): Ich verstehe. Wir könnten den Ersatzartikel vorab versenden und Sie senden die falsche Größe zurück.
+[2024-06-16 08:47:36] Customer: Das wäre super.
+[2024-06-16 08:47:59] Agent (Morris): Ich benötige nur nochmal Ihre Lieferadresse zur Bestätigung.
+[2024-06-16 08:48:19] Customer: 42 Main Street, Flatleybury, AR 72601, USA
+[2024-06-16 08:48:41] Agent (Morris): Perfekt, danke.
+*** RMA CREATED: RMA-DE-883271
+[2024-06-16 08:49:10] Agent (Morris): Der Ersatzartikel sollte innerhalb von 3 Werktagen bei Ihnen eintreffen.
+[2024-06-16 08:49:35] Customer: Prima, danke für die schnelle Lösung.
+[2024-06-16 08:49:57] Agent (Morris): Sehr gerne. Noch etwas, wobei ich helfen kann?
+[2024-06-16 08:50:14] Customer: Nein, das war's. Einen schönen Tag.
+[2024-06-16 08:50:25] Agent (Morris): Ihnen auch, Herr Koss.
+
+--- SESSION SUMMARY ---
+CaseNumber: CAS-DE-221193
+Disposition: Austausch veranlasst
+HandlingTags: retouren, größenfehler, priority-shipping
+AgentSignOff: Morris Lind

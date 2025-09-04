@@ -1,0 +1,55 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: ace152fd-19e0-4a5d-acb9-56bf213b8bef
+SessionId: LCS4821
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-05-10T14:02:15Z
+EndTime: 2024-05-10T14:37:49Z
+ProductId: 30280c74-3a3f-4d39-b8ac-902d2457b802
+Product: Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack XL
+AgentId: 21d33d63-e519-4b74-b7de-d23a4a338a5a
+Agent: Ima Kemmer | leopoldo.bradtke@zava.com | 329.766.7185 x6834
+CustomerId: 91c205fd-951a-45f8-bb59-bdb3cae5bcc6
+Customer: Chanel Schultz | Chanel.Schultz3@hotmail.com | 1-331-516-3194
+CustomerAddress: 44 Maple Hollow Rd, Littleville, ON K0G 2A0, Canada
+CustomerDOB: 08/17/1991
+LoyaltyId: ZAVA98823455
+OrderNumber: ORD-CA-58392048
+Payment: Card Visa 4539682012345678 | Exp 09/26
+
+[2024-05-10 14:02:15] Customer: Hi there, I just got my Aura Field Elite hoodie delivered, but there's an issue.
+[2024-05-10 14:02:29] Agent (Ima): Hello Chanel, this is Ima with Zava Support. I can help. Could you tell me what's wrong with the hoodie?
+[2024-05-10 14:02:50] Customer: Sure... there's a tear in the left pocket seam. Very upsetting because I was going to wear it this weekend.
+[2024-05-10 14:03:06] Agent (Ima): I’m so sorry to hear that. Let’s get this resolved quickly. Do you have your order number handy?
+[2024-05-10 14:03:21] Customer: Yes, it’s ORD-CA-58392048.
+[2024-05-10 14:03:34] Agent (Ima): Thank you.
+*** AUTH VERIFIED via one-time code sent to Ch******tz3@hotmail.com
+[2024-05-10 14:04:02] Agent (Ima): I see the order placed May 4, shipped May 6. The damage would be covered under our arrival defect policy.
+[2024-05-10 14:04:20] Customer: Good to hear. Will I have to send it back first?
+[2024-05-10 14:04:35] Agent (Ima): We can do an advance replacement since you’re a loyalty member (ZAVA98823455). We ship the new one today, and you return the defective item using the prepaid label.
+[2024-05-10 14:04:58] Customer: Perfect. What if the size is sold out?
+[2024-05-10 14:05:15] Agent (Ima): Let me check stock...
+[2024-05-10 14:05:42] Agent (Ima): Good news, we have XL in OrangeBlack available.
+[2024-05-10 14:05:56] Customer: Great.
+*** RMA CREATED: RMA-7754210
+[2024-05-10 14:06:18] Agent (Ima): I’ve created your return authorization RMA-7754210. The replacement will leave our Toronto warehouse within a few hours.
+[2024-05-10 14:06:39] Customer: Thanks, can you send the tracking?
+[2024-05-10 14:06:50] Agent (Ima): Yes, you’ll get it by email later today.
+[2024-05-10 14:07:05] Customer: Appreciate the help today.
+[2024-05-10 14:07:16] Agent (Ima): Always happy to help, Chanel.
+[2024-05-10 14:07:28] Customer: One more thing — the payment was on my Visa ending in 5678, will there be any extra charges?
+[2024-05-10 14:07:46] Agent (Ima): No, the replacement is free. We only hold temporary authorization until the defective unit is received.
+[2024-05-10 14:08:05] Customer: Understood.
+[2024-05-10 14:08:15] Agent (Ima): Anything else I can assist you with?
+[2024-05-10 14:08:25] Customer: No, that's everything.
+[2024-05-10 14:08:38] Agent (Ima): Thank you for contacting Zava, Chanel. Enjoy your weekend once the hoodie arrives.
+[2024-05-10 14:08:49] Customer: I will. Bye.
+[2024-05-10 14:08:53] Agent (Ima): Goodbye!
+
+--- SESSION SUMMARY ---
+CaseNumber: CSE-20240510-1742
+Disposition: Product defect - replacement arranged
+Tags: RMA, arrival damage, loyalty advance replacement
+AgentSignOff: Ima Kemmer

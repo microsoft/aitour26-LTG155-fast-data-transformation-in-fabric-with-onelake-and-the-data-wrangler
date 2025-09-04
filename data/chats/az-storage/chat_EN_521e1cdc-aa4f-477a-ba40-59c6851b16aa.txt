@@ -1,0 +1,55 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 521e1cdc-aa4f-477a-ba40-59c6851b16aa
+SessionId: X7G92P
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-14T14:02:18Z
+EndTime: 2024-06-14T14:37:41Z
+ProductId: e52e9200-72e1-4ac5-bfa0-82fd3b418bd4
+Product: Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver S
+AgentId: 1a94f7de-457b-4912-ab40-53ee71dc537c
+Agent: Tyshawn Hessel | melvin.schmitt@zava.com | 1-982-893-7676 x85408
+CustomerId: d5356b0a-2f5f-4cb5-a21b-96a9301e527e
+Customer: Cristopher Rosenbaum | Cristopher_Rosenbaum11@yahoo.com | 384.591.0476 x526
+CustomerAddress: 347 Oak Hollow Rd, Port Shakiraton, OH 43928, USA
+CustomerDOB: 03/19/1984
+LoyaltyId: ZAV88451293
+OrderNumber: ORD-90455-US
+Payment: Card Visa 4539452918374021 | Exp 09/26
+
+[2024-06-14 14:02:18] Customer: Hi, I just received the Aura Field Extreme Temp Jacket I ordered last week, and I'm having some trouble with the illumination feature.
+[2024-06-14 14:03:05] Agent (Tyshawn): Hello Cristopher! Let me help you with that. Can you tell me what's happening when you try to switch it on?
+[2024-06-14 14:03:41] Customer: It doesn't light up at all. I've tried pressing the button inside the left pocket a few times.
+[2024-06-14 14:04:16] Agent (Tyshawn): Got it. Sometimes the safety tab on the battery pack isn't removed during shipping. Could you check inside the inner pocket for a small plastic tab?
+[2024-06-14 14:05:04] Customer: Oh, I see a little plastic strip, yes.
+[2024-06-14 14:05:16] Agent (Tyshawn): Please pull that out and try pressing the button again.
+[2024-06-14 14:06:02] Customer: Okay, now it lights up! That was it. Thanks.
+[2024-06-14 14:06:34] Agent (Tyshawn): Happy to hear that fixed it! Is the brightness level to your liking?
+[2024-06-14 14:07:05] Customer: Yes, but one of the seams near the zipper looks loose. Is that covered under my warranty?
+[2024-06-14 14:07:46] Agent (Tyshawn): Yes, our jackets have a 2-year warranty covering stitching issues. Would you like me to set up a repair request?
+*** AUTH VERIFIED via one-time code sent to C***11@yahoo.com
+[2024-06-14 14:09:12] Customer: Yes, please. I don't want it getting worse.
+[2024-06-14 14:09:54] Agent (Tyshawn): I will create a case for you. Could you confirm your shipping address for the repair return?
+[2024-06-14 14:10:21] Customer: Sure, it's 347 Oak Hollow Rd, Port Shakiraton, OH 43928.
+[2024-06-14 14:11:03] Agent (Tyshawn): Thank you. We'll email you a prepaid label.
+*** RMA CREATED: RMA-772981-US
+[2024-06-14 14:11:34] Agent (Tyshawn): Your Return Merchandise Authorization number is RMA-772981-US. Please include this in your package.
+[2024-06-14 14:12:02] Customer: Great, I'll ship it tomorrow.
+[2024-06-14 14:12:35] Agent (Tyshawn): Once we receive it, repairs take about 5 business days.
+[2024-06-14 14:13:16] Customer: Can I still wear it in the meantime?
+[2024-06-14 14:13:54] Agent (Tyshawn): If the loose seam is small, you can, but be careful not to stress it further.
+[2024-06-14 14:14:42] Customer: Understood. One last thing — will my loyalty points still apply to this order?
+[2024-06-14 14:15:21] Agent (Tyshawn): Yes, your Loyalty ID ZAV88451293 points have already been applied.
+[2024-06-14 14:16:04] Customer: Perfect. Thanks again.
+[2024-06-14 14:16:22] Agent (Tyshawn): You're welcome. Anything else I can help with?
+[2024-06-14 14:16:43] Customer: No, that's it.
+[2024-06-14 14:17:02] Agent (Tyshawn): Great. Have a wonderful day, Cristopher!
+[2024-06-14 14:17:14] Customer: You too.
+
+--- SESSION SUMMARY ---
+Case Number: CAS-684512-US
+Disposition: Warranty Repair Initiated
+Handling Tags: warranty, illuminated-jacket, seam-repair, loyalty-points
+Agent Sign-off: Tyshawn Hessel

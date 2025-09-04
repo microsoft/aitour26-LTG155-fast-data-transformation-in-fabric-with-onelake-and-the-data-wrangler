@@ -1,0 +1,52 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: a8930487-2553-4bee-805b-7182759894ee
+SessionId: W48G7Z
+Channel: WebChat
+Locale: de-DE
+StartTime: 2024-06-14T09:08:12+02:00
+EndTime: 2024-06-14T09:37:46+02:00
+ProductId: ed8d7717-c24c-454c-b9cc-304d500f74af
+Product: Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite XL
+AgentId: f4d7c412-0620-451a-b08d-4a1874c69f8a
+Agent: Wilfrid Gusikowski | nora.schumm@zava.com | (497) 934-8729 x230
+CustomerId: 3d51797a-cec3-4816-a1e1-0b716015772c
+Customer: Jakayla Auer | Jakayla.Auer38@hotmail.com | 1-839-836-1711
+CustomerAddress: Bahnhofstraße 12, West Sasha,  , , Germany
+CustomerDOB: 03/14/1985
+LoyaltyId: ZAVA7183920
+OrderNumber: ORD-DE-9293847-HV
+Payment: Card VISA 4539513234567890 | Exp 08/27
+
+[2024-06-14 09:08:12] Customer: Guten Morgen, ich habe gestern mein neues Kurzarmshirt erhalten, leider ist es an der rechten Naht schon aufgerissen.
+[2024-06-14 09:08:36] Agent (Wilfrid): Guten Morgen Frau Auer, das tut mir leid zu hören. Darf ich zunächst Ihre Bestellnummer verifizieren?
+[2024-06-14 09:08:48] Customer: Ja, die Nummer lautet ORD-DE-9293847-HV.
+*** AUTH VERIFIED via one-time code sent to J***@hotmail.com
+[2024-06-14 09:09:22] Agent (Wilfrid): Vielen Dank. Darf ich fragen, ob der Schaden direkt beim Auspacken sichtbar war oder nach der ersten Nutzung aufgetreten ist?
+[2024-06-14 09:09:41] Customer: Der war direkt beim Auspacken da, sehr ärgerlich.
+[2024-06-14 09:09:56] Agent (Wilfrid): Ja, absolut verständlich. Wir können Ihnen sofort einen Ersatz zusenden oder eine Rückerstattung veranlassen.
+[2024-06-14 09:10:21] Customer: Ich hätte lieber einen Ersatz, da mir die Farbe sehr gefällt.
+[2024-06-14 09:10:39] Agent (Wilfrid): Selbstverständlich. Ich prüfe, ob wir die Größe XL in DrBlueWhite aktuell am Lager haben.
+*** STOCK CHECK: 1 unit available, reserved for customer
+[2024-06-14 09:11:18] Agent (Wilfrid): Gute Nachricht: Wir haben noch ein Exemplar vorrätig. Ich lege direkt den Austausch an.
+*** RMA CREATED: RMA-DE-448291
+[2024-06-14 09:11:47] Customer: Super, danke. Muss ich das defekte Shirt zurücksenden?
+[2024-06-14 09:12:01] Agent (Wilfrid): Ja, bitte. Sie erhalten ein vorfrankiertes Rücksendeetikett per E-Mail.
+[2024-06-14 09:12:13] Customer: Alles klar.
+[2024-06-14 09:12:32] Agent (Wilfrid): Könnten Sie mir noch kurz bestätigen, dass Ihre Adresse Bahnhofstraße 12, West Sasha korrekt ist?
+[2024-06-14 09:12:50] Customer: Ja, das stimmt so.
+[2024-06-14 09:13:06] Agent (Wilfrid): Wunderbar. Der Ersatz wird heute noch verschickt, Lieferzeit ca. 2-3 Werktage.
+[2024-06-14 09:13:27] Customer: Perfekt, danke für die schnelle Hilfe!
+[2024-06-14 09:13:39] Agent (Wilfrid): Sehr gerne. Möchten Sie noch etwas zu unserer LoyaltyCard ZAVA7183920 wissen? Sie hätten einen 10%-Gutschein für die nächste Bestellung.
+[2024-06-14 09:13:57] Customer: Oh, das klingt gut. Können Sie mir den Code schicken?
+[2024-06-14 09:14:16] Agent (Wilfrid): Natürlich, er wird ebenfalls in der E-Mail mit dem Etikett enthalten sein.
+[2024-06-14 09:14:34] Customer: Alles klar. Vielen Dank und einen schönen Tag!
+[2024-06-14 09:14:46] Agent (Wilfrid): Ihnen ebenso!
+*** CASE CLOSED: return/replacement
+
+--- SESSION SUMMARY ---
+CaseNo: DE-20240614-5532
+Disposition: Replacement initiated, prepaid return label sent
+Tags: return, defective_on_arrival, loyalty_info
+Agent Sign-off: Wilfrid Gusikowski

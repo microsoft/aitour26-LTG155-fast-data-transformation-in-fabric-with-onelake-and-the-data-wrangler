@@ -1,0 +1,44 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 9a175b3c-b832-4bb5-ba46-8f8493d15ea1
+SessionId: FR4821
+Channel: WebChat
+Locale: fr-FR
+StartTime: 2024-06-12T14:03:12+02:00
+EndTime: 2024-06-12T14:45:59+02:00
+ProductId: f4153abf-b925-4625-8bd0-9573937da133
+Product: Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed L
+AgentId: ea1175f8-275e-4fcc-bfe5-3f469b6368fa
+Agent: Nicholas Kilback | justus.hermiston@zava.com | 1-842-863-7358 x99934
+CustomerId: 5dd6ad80-dc8d-4fc0-be56-8930ab48e512
+Customer: Milan Mohr | Milan_Mohr77@hotmail.com | 1-750-230-7902 x1796
+CustomerAddress: 14 rue des Lilas, Port Mafalda, 44210, France
+CustomerDOB: 03/15/1985
+LoyaltyId: FR987654321
+OrderNumber: ORD-FR-20240611-4431
+Payment: Card VISA 4532123412341234 | Exp 08/27
+
+[2024-06-12 14:03:12] Customer: Bonjour, j'aimerais signaler un problème avec ma commande reçue hier.
+[2024-06-12 14:03:25] Agent (Nicholas): Bonjour Milan, je suis Nicholas. Pouvez-vous m'expliquer le problème rencontré ?
+[2024-06-12 14:04:01] Customer: Oui, le sweat à capuche est trop petit, bien que j'aie commandé la taille L.
+[2024-06-12 14:04:33] Agent (Nicholas): D'accord, est-ce l'étiquette sur le vêtement indique bien "L" ?
+[2024-06-12 14:04:59] Customer: Justement non, elle indique "M".
+[2024-06-12 14:05:20] Agent (Nicholas): Je comprends, cela semble être une erreur de préparation.
+*** AUTH VERIFIED via one-time code sent to mi***@hotmail.com
+[2024-06-12 14:06:12] Agent (Nicholas): Milan, je vais lancer une procédure RMA (retour produit). Souhaitez-vous un échange pour une L ou un remboursement ?
+[2024-06-12 14:06:40] Customer: J’aimerais un échange, merci.
+[2024-06-12 14:07:15] Agent (Nicholas): Très bien. Veuillez confirmer l'adresse de livraison : 14 rue des Lilas, Port Mafalda, 44210 ?
+[2024-06-12 14:07:28] Customer: Oui, c'est correct.
+[2024-06-12 14:08:09] Agent (Nicholas): Parfait, je vais préparer l'envoi d'une taille L et générer une étiquette de retour prépayée.
+*** RMA CREATED: RMA-FR-667210 ***
+[2024-06-12 14:08:55] Customer: Super, merci beaucoup pour la rapidité.
+[2024-06-12 14:09:24] Agent (Nicholas): Vous recevrez un email avec l'étiquette dans quelques minutes.
+[2024-06-12 14:09:50] Customer: Parfait, bonne journée.
+[2024-06-12 14:10:06] Agent (Nicholas): Bonne journée à vous aussi Milan.
+
+--- SESSION SUMMARY ---
+CaseNumber: CAS-FR-550987
+Disposition: Echange produit - erreur de taille
+Tags: retour, échange, erreur préparation
+AgentSignOff: Merci d'avoir contacté Zava Inc., au plaisir de vous revoir.

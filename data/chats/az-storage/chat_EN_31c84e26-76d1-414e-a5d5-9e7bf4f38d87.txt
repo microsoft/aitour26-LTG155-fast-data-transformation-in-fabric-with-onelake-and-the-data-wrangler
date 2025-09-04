@@ -1,0 +1,53 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 31c84e26-76d1-414e-a5d5-9e7bf4f38d87
+SessionId: S8192XZ
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-05-14T14:03:22Z
+EndTime: 2024-05-14T14:47:59Z
+ProductId: 772cb370-ec39-4acf-998c-5610832de51b
+Product: Aura Field Elite Athletic Pants - DeepRedRed XXL
+AgentId: 5978e5bf-62e3-44b4-b451-d846dd36f3b6
+Agent: Ambrose Kessler | rosanna.kling@zava.com | 819-752-0873 x725
+CustomerId: 420e9ec4-ba4d-4648-91fb-1764733d2ed3
+Customer: Kailyn Moen | Kailyn.Moen24@yahoo.com | 904.452.2342 x868
+CustomerAddress: 512 Juniper Hollow, South Nikita, NV 89412, USA
+CustomerDOB: 03/27/1991
+LoyaltyId: ZAVA98127456
+OrderNumber: ORD-8821345-US
+Payment: Card Visa 4485376281927364 | Exp 04/27
+
+[2024-05-14 14:03:22] Customer: Hi, I just received my Aura Field Elite Athletic Pants but they seem to be the wrong size.
+[2024-05-14 14:03:40] Agent (Ambrose): Hello Kailyn, I'm sorry about that! Can you confirm the size you ordered versus what you received?
+[2024-05-14 14:04:05] Customer: I ordered XXL, but the tag says "L".
+[2024-05-14 14:04:35] Agent (Ambrose): Gotcha. Let me verify your recent order details.
+*** AUTH VERIFIED via one-time code sent to Kai***@yahoo.com
+[2024-05-14 14:05:12] Agent (Ambrose): According to our system, order ORD-8821345-US is indeed for XXL. Seems this was a packing error.
+[2024-05-14 14:05:44] Customer: That's frustrating, I needed them for a trip this weekend.
+[2024-05-14 14:06:10] Agent (Ambrose): I completely understand the urgency. We can expedite a replacement shipment.
+[2024-05-14 14:06:32] Customer: How fast can you get them to South Nikita, NV 89412?
+[2024-05-14 14:06:55] Agent (Ambrose): We can use overnight delivery. If we process in the next hour, you'll have them tomorrow.
+[2024-05-14 14:07:20] Customer: Yes, let's do that.
+*** RMA CREATED: RMA-774829193
+[2024-05-14 14:08:03] Agent (Ambrose): I've created an RMA for the return. You can use the prepaid label emailed to you.
+[2024-05-14 14:08:25] Customer: Okay, will that email go to my Yahoo address?
+[2024-05-14 14:08:39] Agent (Ambrose): Correct, to Kailyn.Moen24@yahoo.com.
+[2024-05-14 14:09:01] Customer: And you'll ship the XXL today?
+[2024-05-14 14:09:21] Agent (Ambrose): Yes, replacement is leaving our Reno warehouse shortly.
+[2024-05-14 14:09:47] Customer: Perfect. Will my card be charged again?
+[2024-05-14 14:10:02] Agent (Ambrose): No additional charge, just return the item within 14 days.
+[2024-05-14 14:10:28] Customer: Thank you for sorting this out quickly.
+[2024-05-14 14:10:54] Agent (Ambrose): My pleasure, Kailyn. Is there anything else you need help with today?
+[2024-05-14 14:11:13] Customer: No, that's everything.
+[2024-05-14 14:11:27] Agent (Ambrose): Great. You'll see tracking details in your inbox within the hour.
+[2024-05-14 14:11:46] Customer: Thanks again.
+[2024-05-14 14:11:59] Agent (Ambrose): You’re very welcome. Safe travels!
+
+---
+Session Summary: Customer reported wrong size received; expedited replacement arranged with overnight shipment from Reno warehouse. RMA created for incorrect item.
+Case Number: 20240514-88329
+Disposition: Replacement processed
+Handling Tags: shipping_error, rma_created, overnight_delivery
+Agent Sign-off: Ambrose Kessler

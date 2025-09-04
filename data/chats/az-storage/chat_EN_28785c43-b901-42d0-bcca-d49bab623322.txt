@@ -1,0 +1,57 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 28785c43-b901-42d0-bcca-d49bab623322
+SessionId: S9845
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-11T14:02:15Z
+EndTime: 2024-06-11T14:28:47Z
+ProductId: b1aaeb0b-2567-4585-8498-ab26039b5cea
+Product: Aura Field Elite Athletic Short Sleeve Top - OrangeBlack M
+AgentId: e068fdf2-c3f8-48cf-a057-0ef8e7cf4c24
+Agent: Dewayne Stanton | katrina.hickle@zava.com | (462) 300-3985 x122
+CustomerId: 89a46b04-7cfa-403a-b43f-c9cf8651104a
+Customer: Brendan Friesen | Brendan13@gmail.com | (907) 852-8555 x42837
+CustomerAddress: 7422 Redwood Street, Reillyhaven, AL 36505, USA
+CustomerDOB: 04/19/1985
+LoyaltyId: ZAVA4388227
+OrderNumber: ORD-AL-998372
+Payment: Card Visa 4532123412341234 | Exp 08/28
+
+[2024-06-11 14:02:25] Customer: Hi, I just received my order for the Aura Field Elite shirt, but it's the wrong size.
+[2024-06-11 14:02:41] Agent (Dewayne): Hello Brendan, sorry to hear that. Can I have your order number to look this up?
+[2024-06-11 14:02:55] Customer: Yes, order number is ORD-AL-998372.
+[2024-06-11 14:03:07] Agent (Dewayne): Thank you. Let me verify your details first.
+*** AUTH VERIFIED via one-time code sent to bren***@gmail.com
+[2024-06-11 14:04:12] Agent (Dewayne): So I see your order was for size Medium, but you received a Large, correct?
+[2024-06-11 14:04:25] Customer: Exactly, and I don't want to wait too long to get the right one.
+[2024-06-11 14:04:47] Agent (Dewayne): Understood. I can process an exchange and ship the Medium today.
+[2024-06-11 14:05:02] Customer: Great, but do I have to pay for return shipping?
+[2024-06-11 14:05:15] Agent (Dewayne): No, we'll cover that since it's our error.
+[2024-06-11 14:05:31] Customer: Awesome, thanks.
+[2024-06-11 14:05:55] Agent (Dewayne): Could you confirm your shipping address?
+[2024-06-11 14:06:14] Customer: Yes, it's 7422 Redwood Street, Reillyhaven, AL 36505.
+[2024-06-11 14:06:35] Agent (Dewayne): Perfect. Our system matches that.
+[2024-06-11 14:06:47] Customer: How long will the Medium take to arrive?
+[2024-06-11 14:06:59] Agent (Dewayne): Standard 2-day shipping, so you should have it by Thursday.
+[2024-06-11 14:07:16] Customer: Good, I need it for a Saturday event.
+[2024-06-11 14:07:35] Agent (Dewayne): Let's also get the return label to you via email.
+[2024-06-11 14:07:50] Customer: Yes, please send it to Brendan13@gmail.com.
+*** RETURN LABEL EMAILED to bren***@gmail.com
+[2024-06-11 14:08:22] Agent (Dewayne): Please pack the Large shirt and drop it off at any UPS location.
+[2024-06-11 14:08:40] Customer: No problem.
+[2024-06-11 14:09:05] Agent (Dewayne): Is there anything else I can help with regarding your Loyalty program status?
+[2024-06-11 14:09:27] Customer: Oh, yeah—does this exchange affect my loyalty points?
+[2024-06-11 14:09:49] Agent (Dewayne): No, points will still be credited based on your original purchase.
+[2024-06-11 14:10:12] Customer: Perfect.
+[2024-06-11 14:10:30] Agent (Dewayne): All set, Brendan. You'll get tracking details by email soon.
+[2024-06-11 14:10:43] Customer: Thanks a lot for the quick help.
+[2024-06-11 14:10:57] Agent (Dewayne): You're very welcome.
+
+---
+Session Summary: Customer reported receiving wrong shirt size. Verified order and personal details. Initiated exchange with free return shipping. Replacement Medium shirt shipping today.
+Case Number: CSE-4472215
+Disposition: Exchange initiated
+Tags: order-error, size-issue, loyalty
+Agent Sign-off: Dewayne Stanton

@@ -1,0 +1,50 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: db3d86ae-9efd-4890-81d2-ce242b66c3f0
+SessionId: WCH4721
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-11T15:02:14Z
+EndTime: 2024-06-11T15:37:55Z
+ProductId: 33c8ad17-71c9-462a-86ce-b85501e2105b
+Product: Aura Field Elite Athletic Long Sleeve Top - TealOrange S
+AgentId: 649fb0c3-26b4-4a2c-bba6-f77dcbadac8c
+Agent: Burnice Frami | isac.heidenreich@zava.com | 1-706-668-2092
+CustomerId: 59cb5d70-3226-45aa-9606-7b342efb4ff0
+Customer: Elijah Terry | Elijah.Terry@hotmail.com | 682-222-0918 x35855
+CustomerAddress: 742 Willowbank Crescent, Lake Marietta, Kent LK22 8PP, UK
+CustomerDOB: 03/14/1986
+LoyaltyId: ZAUK4438291
+OrderNumber: UK-458203-2024B
+Payment: Card Visa 4532117745639081 | Exp 08/27
+
+[2024-06-11 15:02:14] Customer: Hi there, I received my order today but I think I've been sent the wrong size.
+[2024-06-11 15:02:41] Agent (Burnice): Hello Elijah, I can help you with that. Can you confirm the size on the label?
+[2024-06-11 15:03:09] Customer: It says 'M', but my order confirmation says 'S'.
+[2024-06-11 15:03:44] Agent (Burnice): I see. Let me verify your order history quickly.
+[2024-06-11 15:04:17] *** AUTH VERIFIED via one-time code sent to El***@hotmail.com
+[2024-06-11 15:05:02] Agent (Burnice): Yes, you did order size Small. Seems we shipped Medium by mistake.
+[2024-06-11 15:05:48] Customer: That's inconvenient, I needed it for a race this weekend.
+[2024-06-11 15:06:15] Agent (Burnice): I understand the urgency. We can try to expedite a replacement. What's your postcode again?
+[2024-06-11 15:06:42] Customer: LK22 8PP.
+[2024-06-11 15:07:13] Agent (Burnice): Thank you. We have Small in stock; we can ship next day delivery.
+[2024-06-11 15:07:45] Customer: Okay, but what do I do with the Medium one?
+[2024-06-11 15:08:21] Agent (Burnice): We will send you a prepaid return label via email.
+[2024-06-11 15:09:10] Customer: Alright, I can drop it at the post office today.
+[2024-06-11 15:09:32] Agent (Burnice): Perfect, that will speed things up.
+[2024-06-11 15:10:05] Customer: Will I get confirmation once the new one ships?
+[2024-06-11 15:10:27] Agent (Burnice): Yes, you'll receive tracking via email and text to 682-222-0918.
+[2024-06-11 15:11:12] Customer: Great, I appreciate the quick help.
+[2024-06-11 15:11:53] Agent (Burnice): Happy to help! Submitting the replacement request now.
+[2024-06-11 15:12:26] *** RMA CREATED: UKRMA-772914
+[2024-06-11 15:13:10] Agent (Burnice): You'll get your label shortly. Is there anything else you want to check today?
+[2024-06-11 15:13:47] Customer: No, that's all.
+[2024-06-11 15:14:10] Agent (Burnice): Thank you for shopping with Zava Inc., Elijah, and best of luck with your race!
+[2024-06-11 15:14:28] Customer: Thank you!
+
+--- SESSION SUMMARY ---
+CaseNumber: UK-CASE-558291
+Disposition: Replacement order expedited, wrong size returned.
+HandlingTags: Wrong Item, Replacement, Expedited Shipping
+AgentSignOff: Burnice Frami

@@ -1,0 +1,55 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: dd3f413e-a414-4d80-b220-081acc09ce2a
+SessionId: S4552KJ
+Channel: WebChat
+Locale: es-ES
+StartTime: 2024-05-12T14:02:18Z
+EndTime: 2024-05-12T14:37:42Z
+ProductId: f2fac48e-0e65-44c8-96e6-4e01c756529b
+Product: Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver L
+AgentId: 532fc30e-433b-4444-ab46-8c958d61dcdd
+Agent: Peter Deckow | augustus.harvey@zava.com | 526-223-5564
+CustomerId: 312ce078-9de1-4d6e-8da7-02e33cf0647c
+Customer: Emmet Sauer | Emmet_Sauer7@hotmail.com | 752-831-1197 x3623
+CustomerAddress: 482 Lakewood Drive, Millerborough, OK 74821, USA
+CustomerDOB: 03/11/1985
+LoyaltyId: ZAVA3321945
+OrderNumber: ORD-984552-US
+Payment: Card VISA 4929123412341234 | Exp 07/26
+
+[2024-05-12 14:02:19] Customer: Hola, acabo de recibir mi chaqueta Aura Field Extreme Temp y no enciende la iluminación.
+[2024-05-12 14:03:01] Agent (Peter): Buenas tardes, Emmet. Lamento escuchar eso. ¿Podrías confirmarme el número de pedido para verificar la compra?
+[2024-05-12 14:03:14] Customer: Sí, es el ORD-984552-US, lo compré la semana pasada.
+[2024-05-12 14:04:05] Agent (Peter): Perfecto, lo encontré. Gracias por la información.
+*** AUTH VERIFIED via one-time code sent to Em***@hotmail.com
+[2024-05-12 14:05:11] Agent (Peter): ¿Has tratado de mantener presionado el botón de encendido en la manga por 5 segundos?
+[2024-05-12 14:05:34] Customer: Sí, lo hice varias veces, pero nada.
+[2024-05-12 14:06:22] Agent (Peter): Entiendo. Puede ser un tema de batería interna. ¿Ves si hay luz indicadora al cargar con el cable USB?
+[2024-05-12 14:06:45] Customer: No, tampoco se enciende al conectar.
+[2024-05-12 14:07:39] Agent (Peter): Entonces parece un fallo de fábrica.
+[2024-05-12 14:08:14] Customer: Pues la verdad estoy molesto porque la necesito para un viaje a Colorado pasado mañana.
+[2024-05-12 14:09:00] Agent (Peter): Comprendo la urgencia. Puedo generar un RMA y enviarte una reposición exprés.
+[2024-05-12 14:09:45] Customer: Perfecto, pero necesito que llegue antes del miércoles.
+[2024-05-12 14:10:30] Agent (Peter): Tenemos envío nocturno disponible. Te lo enviamos hoy.
+*** RMA CREATED: RMA-US-883291 ***
+[2024-05-12 14:11:15] Agent (Peter): ¿La dirección de envío sería la misma: 482 Lakewood Drive, Millerborough, OK 74821?
+[2024-05-12 14:11:37] Customer: Sí, esa misma.
+[2024-05-12 14:12:09] Agent (Peter): Perfecto. Te llegará mañana antes de las 15h.
+[2024-05-12 14:12:55] Customer: Genial. ¿Y cómo devuelvo la defectuosa?
+[2024-05-12 14:13:40] Agent (Peter): Te enviaremos una etiqueta prepagada junto con la nueva chaqueta. Solo coloca la defectuosa en la caja y llama a la mensajería.
+[2024-05-12 14:14:21] Customer: Muy bien. Gracias por la ayuda.
+[2024-05-12 14:14:52] Agent (Peter): Un placer ayudarte, Emmet. Recibirás el email de confirmación y seguimiento en pocos minutos.
+[2024-05-12 14:15:13] Customer: Listo.
+[2024-05-12 14:15:36] Agent (Peter): ¿Puedo ayudarte en algo más hoy?
+[2024-05-12 14:15:52] Customer: No, eso es todo.
+[2024-05-12 14:16:08] Agent (Peter): Excelente. Te deseo un buen viaje y que disfrutes la chaqueta.
+[2024-05-12 14:16:29] Customer: Gracias, buen día.
+
+---
+Session Summary: Cliente reportó que la iluminación de su chaqueta no funcionaba. Se verificó compra y se determinó defecto de fábrica. Se procesó RMA con envío exprés y etiqueta de devolución.
+Case Number: CAS-23051182
+Disposition: Resuelto - Reemplazo enviado
+Tags: RMA, Producto defectuoso, EnvíoExprés
+Agent Sign-off: Peter Deckow

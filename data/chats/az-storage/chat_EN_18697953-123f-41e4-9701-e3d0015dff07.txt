@@ -1,0 +1,52 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 18697953-123f-41e4-9701-e3d0015dff07
+SessionId: WCH47392
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-05-14T15:08:12Z
+EndTime: 2024-05-14T15:36:44Z
+ProductId: 05e69266-4655-45e2-83a4-c327d32023fa
+Product: Aura Field Elite Athletic Long Sleeve Top - DrBlueWhite XL
+AgentId: 07fddc45-e1f5-4d6c-a1a4-1df43dd6e8c3
+Agent: Cristopher Hodkiewicz | margarett.schmidt@zava.com | 1-735-762-4087
+CustomerId: 322513b3-5c64-4640-a706-0c71a6c7e55c
+Customer: Ross Hayes | Ross.Hayes34@gmail.com | 990-848-5549 x27286
+CustomerAddress: 524 Lake View Dr, Connerchester, CO 80112, USA
+CustomerDOB: 08/24/1985
+LoyaltyId: ZAV11234856
+OrderNumber: ZA-ORD-4827935-US
+Payment: Card Visa 4929123478901234 | Exp 11/27
+
+[2024-05-14 15:08:12] Customer: Hi, I'm reaching out because my order arrived but the top has a small tear near the shoulder seam.
+[2024-05-14 15:08:29] Agent (Cristopher): Hello Ross, I'm really sorry to hear that. Let me pull up your order details. Can I quickly verify your email and last 4 digits of the card you used?
+[2024-05-14 15:08:55] Customer: Sure, email is Ross.Hayes34@gmail.com, and card ends with 1234.
+*** AUTH VERIFIED via one-time code sent to R***@gmail.com
+[2024-05-14 15:09:44] Agent (Cristopher): Thank you, I see the order placed on May 9th for the DrBlueWhite XL top. Could you send me a photo of the tear?
+[2024-05-14 15:10:15] Customer: Just uploaded it through the file upload tool.
+[2024-05-14 15:11:03] Agent (Cristopher): Got it. I clearly see the seam coming apart. We can either do a replacement or a refund - which would you prefer?
+[2024-05-14 15:11:29] Customer: I'd prefer a replacement please, this is a gift for my brother's birthday next week.
+[2024-05-14 15:12:22] Agent (Cristopher): Understood. I'll create an RMA and arrange an expedited replacement.
+*** RMA CREATED: RMA-884731US
+[2024-05-14 15:13:05] Customer: Do I need to return the defective one first?
+[2024-05-14 15:13:46] Agent (Cristopher): We'll send you the replacement right away with a prepaid return label in the box. You'll have 14 days to return the defective item.
+[2024-05-14 15:14:12] Customer: Great, thanks. Will the replacement arrive before May 21st?
+[2024-05-14 15:14:58] Agent (Cristopher): Yes, with expedited shipping it should arrive by May 17th.
+[2024-05-14 15:15:27] Customer: Perfect.
+[2024-05-14 15:16:10] Agent (Cristopher): Is the shipping address still 524 Lake View Dr, Connerchester, CO 80112?
+[2024-05-14 15:16:22] Customer: Yes, that's correct.
+[2024-05-14 15:17:09] Agent (Cristopher): All set then. You'll receive an email confirmation with tracking shortly.
+[2024-05-14 15:17:35] Customer: Thank you for your help.
+[2024-05-14 15:18:20] Agent (Cristopher): My pleasure! Is there anything else I can do for you today?
+[2024-05-14 15:18:39] Customer: No, that's all.
+[2024-05-14 15:19:10] Agent (Cristopher): Have a great day, and I hope your brother enjoys the gift.
+[2024-05-14 15:19:28] Customer: Thanks, Cristopher.
+[2024-05-14 15:20:01] Agent (Cristopher): You're welcome!
+
+---
+Session Summary: Customer received defective apparel item; expedited replacement arranged. Prepaid return label included.
+Case Number: CS-20240514-2217
+Disposition: Replacement Initiated
+Handling Tags: apparel, defect, RMA, expedited
+Agent Sign-off: Cristopher Hodkiewicz

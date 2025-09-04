@@ -1,0 +1,48 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: a41daae6-1609-4c2f-b2ed-f426e7345d5b
+SessionId: WCH4921
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-10T14:03:21Z
+EndTime: 2024-06-10T14:42:08Z
+ProductId: 054aa95b-f735-437a-82f5-7063e3cfb602
+Product: Aura Field Elite Athletic Pants - TealOrange XL
+AgentId: 85a7dadf-6721-42b8-934b-5baa4b6f3ff5
+Agent: Malvina Morissette | elinor.rau@zava.com | 808.693.4609 x86792
+CustomerId: 014d45e8-5238-49c4-99f2-c9ee0a44ecfc
+Customer: Carolina Labadie | Carolina.Labadie@hotmail.com | 341.278.8384
+CustomerAddress: 1184 West Oak Lane, Kristyport, WI 53512, USA
+CustomerDOB: 03/05/1986
+LoyaltyId: ZAVA13298765
+OrderNumber: ORD-78452-ZV
+Payment: Card VISA 4539682738491023 | Exp 07/26
+
+[2024-06-10 14:03:21] Customer: Hi, I just received my Aura Field Elite Athletic Pants - TealOrange XL, but I think I got the wrong size.
+[2024-06-10 14:04:05] Agent (Malvina): Hello Carolina, I'm sorry to hear about that. Let me help you sort it out. Could you tell me what size you actually received?
+[2024-06-10 14:04:49] Customer: It says "S" on the tag, definitely not XL.
+[2024-06-10 14:05:30] Agent (Malvina): Got it. I'll need to verify your order details. Could you confirm the delivery address and order number?
+[2024-06-10 14:06:12] Customer: Sure, it's 1184 West Oak Lane, Kristyport, WI 53512. Order ORD-78452-ZV.
+*** AUTH VERIFIED via one-time code sent to Carolina.L*****@hotmail.com
+[2024-06-10 14:08:01] Agent (Malvina): Thanks for confirming. I see in our system you ordered XL, so the warehouse must have picked incorrectly. I apologize for the inconvenience.
+[2024-06-10 14:08:45] Customer: This is kind of frustrating. I needed them for a marathon this weekend.
+[2024-06-10 14:09:28] Agent (Malvina): I completely understand how important that is. Let me check expedited replacement options.
+[2024-06-10 14:10:50] Agent (Malvina): Good news: we have XL in stock. I can overnight it to you at no extra cost.
+[2024-06-10 14:11:14] Customer: That would be great. Do I need to send back the wrong ones first?
+[2024-06-10 14:12:02] Agent (Malvina): You can return them after you receive the correct pair. I'll send you a prepaid return label.
+*** RMA CREATED: RMA-992814
+[2024-06-10 14:13:18] Customer: Ok, but I just hope it arrives in time.
+[2024-06-10 14:13:59] Agent (Malvina): Absolutely. Overnight shipping usually arrives by tomorrow noon.
+[2024-06-10 14:14:40] Customer: Alright, let's do it.
+[2024-06-10 14:15:12] Agent (Malvina): Replacement order has been placed, reference number REPL-78452-ZV. Tracking will be sent to your email shortly.
+[2024-06-10 14:16:03] Customer: Thank you, Malvina. Appreciate the quick help.
+[2024-06-10 14:16:35] Agent (Malvina): You're welcome, Carolina. Sorry again for the trouble, and best of luck in your marathon!
+[2024-06-10 14:17:04] Customer: Thanks, have a good day.
+[2024-06-10 14:17:20] Agent (Malvina): You too!
+
+--- SESSION SUMMARY ---
+Case: CAS-2394817
+Disposition: Replacement - Shipping Upgrade
+Tags: wrong-size, expedited-shipping, RMA
+Agent Sign-off: Malvina Morissette

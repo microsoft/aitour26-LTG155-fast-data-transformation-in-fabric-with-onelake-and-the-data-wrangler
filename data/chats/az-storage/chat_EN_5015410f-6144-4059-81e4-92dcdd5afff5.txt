@@ -1,0 +1,53 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 5015410f-6144-4059-81e4-92dcdd5afff5
+SessionId: WCH4821
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-14T14:02:11Z
+EndTime: 2024-06-14T14:28:47Z
+ProductId: 33c8ad17-71c9-462a-86ce-b85501e2105b
+Product: Aura Field Elite Athletic Long Sleeve Top - TealOrange S
+AgentId: 9348eb6c-4d0d-4d8c-a345-d7e20065e9ba
+Agent: Marcellus Kessler | ova.kreiger@zava.com | 1-964-381-0182
+CustomerId: 497605f3-b076-4de8-92e6-239131c8367d
+Customer: Benedict Cole | Benedict2@hotmail.com | 280.681.1867
+CustomerAddress: 89 Lake View Dr, East Elmer, MA 02135, USA
+CustomerDOB: 03/14/1987
+LoyaltyId: ZAVA9238745
+OrderNumber: ORD-MA-493283
+Payment: Card VISA 4929938475621098 | Exp 09/26
+
+[2024-06-14 14:02:11] Customer: Hi, I received my Aura Field Elite top today but it's the wrong color.
+[2024-06-14 14:02:48] Agent (Marcellus): Hello Benedict, I'm sorry about that. Could you confirm the color you received?
+[2024-06-14 14:03:02] Customer: It's teal/black, but I ordered TealOrange.
+[2024-06-14 14:03:25] Agent (Marcellus): Got it. Let me quickly check your order details.
+*** AUTH VERIFIED via one-time code sent to b********2@hotmail.com
+[2024-06-14 14:04:15] Agent (Marcellus): Yes, the order states TealOrange size S. Looks like a fulfillment error.
+[2024-06-14 14:04:37] Customer: Figures. This is for a race this weekend.
+[2024-06-14 14:05:05] Agent (Marcellus): Understood. Let's see if we can expedite the replacement.
+[2024-06-14 14:05:47] Customer: That would be great, I'll pay extra shipping if needed.
+[2024-06-14 14:06:22] Agent (Marcellus): No extra needed since it's our error. I can arrange overnight shipping.
+[2024-06-14 14:06:51] Customer: Perfect, thanks.
+[2024-06-14 14:07:12] Agent (Marcellus): Can you confirm your delivery address for the replacement?
+[2024-06-14 14:07:39] Customer: Sure, 89 Lake View Dr, East Elmer, MA 02135.
+[2024-06-14 14:08:02] Agent (Marcellus): Thank you. Creating an RMA for the incorrect item.
+*** RMA CREATED: RMA-1184329
+[2024-06-14 14:08:41] Agent (Marcellus): You’ll get a prepaid return label via email.
+[2024-06-14 14:09:00] Customer: Alright. Will I get tracking for the new one?
+[2024-06-14 14:09:12] Agent (Marcellus): Yes, UPS overnight tracking will be sent before evening.
+[2024-06-14 14:09:49] Customer: Good. Need it before Saturday.
+[2024-06-14 14:10:11] Agent (Marcellus): You should receive it tomorrow by 10:30am.
+[2024-06-14 14:10:25] Customer: Okay, thank you.
+[2024-06-14 14:10:42] Agent (Marcellus): Is there anything else I can help with?
+[2024-06-14 14:10:58] Customer: Nope, that’s all.
+[2024-06-14 14:11:17] Agent (Marcellus): Thank you for contacting Zava Inc. again, sorry for the mix-up.
+[2024-06-14 14:11:30] Customer: Alright, have a good day.
+[2024-06-14 14:11:42] Agent (Marcellus): You too, Benedict. Bye.
+
+--- SESSION SUMMARY ---
+Case Number: CAS-2338934
+Disposition: Replacement arranged, RMA issued
+Handling Tags: FulfillmentError, OvernightShip, Apparel
+Agent Sign-off: Regards, Marcellus Kessler

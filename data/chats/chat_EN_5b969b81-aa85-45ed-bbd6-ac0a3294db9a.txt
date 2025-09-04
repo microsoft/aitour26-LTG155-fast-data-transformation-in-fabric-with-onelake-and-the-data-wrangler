@@ -1,0 +1,56 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 5b969b81-aa85-45ed-bbd6-ac0a3294db9a
+SessionId: S8392
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-07T14:02:18Z
+EndTime: 2024-06-07T14:45:51Z
+ProductId: 7879faaa-223b-4fb0-a4d5-6e092af7f5ed
+Product: Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed M
+AgentId: 0486d078-d9fc-415f-9eab-80dd2fe8ba0e
+Agent: Krystina Cummerata | dashawn.schimmel@zava.com | 692.899.0882 x86801
+CustomerId: 6bf64a29-2daf-4521-85ea-b7df97c3b1fd
+Customer: Raymond Harber | Raymond.Harber@yahoo.com | 1-825-308-6809
+CustomerAddress: 418 Brookside Ave, South Lydiaport, NH 03812, USA
+CustomerDOB: 03/21/1984
+LoyaltyId: ZAVA98346217
+OrderNumber: ORD-7752491-NH
+Payment: Card VISA 4532758490312457 | Exp 04/27
+
+[2024-06-07 14:02:18] Customer: Hi, I received my Aura Field Elite Hooded Fleece yesterday, but I think they sent me the wrong color.
+[2024-06-07 14:02:45] Agent (Krystina): Hello Raymond, thanks for reaching out. I can help with that. Can you confirm what color you received?
+[2024-06-07 14:03:10] Customer: It’s sort of a dark maroon. I ordered "DeepRedRed" but this looks more like wine.
+[2024-06-07 14:03:35] Agent (Krystina): Understood. Could you check the product tag inside the garment and read any code or description printed there?
+[2024-06-07 14:04:21] Customer: Sure, tag says: AFE-HF-DeepWine M.
+[2024-06-07 14:04:55] Agent (Krystina): Thanks. That confirms they sent the wrong color variant.
+*** AUTH VERIFIED via one-time code sent to r******r@yahoo.com
+[2024-06-07 14:06:02] Agent (Krystina): I can create a replacement order for the correct DeepRedRed variant right away.
+[2024-06-07 14:06:27] Customer: That would be great. I don’t want to pay for return shipping though, since it’s not my mistake.
+[2024-06-07 14:07:01] Agent (Krystina): Absolutely, return shipping will be prepaid by us.
+[2024-06-07 14:07:48] Customer: Good, and is the size medium still in stock?
+[2024-06-07 14:08:10] Agent (Krystina): Let me check... yes, M is in stock for that color.
+[2024-06-07 14:08:36] Customer: Perfect.
+[2024-06-07 14:09:10] Agent (Krystina): I’ll just need your shipping address to confirm we have it correct on file.
+[2024-06-07 14:09:42] Customer: 418 Brookside Ave, South Lydiaport, NH 03812.
+[2024-06-07 14:10:01] Agent (Krystina): Matches our records. The replacement should ship within 24 hours.
+*** RMA CREATED: RMA-665928-NH
+[2024-06-07 14:11:15] Agent (Krystina): I’ve emailed you a PDF label for the return. Simply drop it at any UPS location.
+[2024-06-07 14:11:43] Customer: Thanks. How long before I get the new one?
+[2024-06-07 14:12:08] Agent (Krystina): Estimated delivery is 3–5 business days.
+[2024-06-07 14:12:29] Customer: Ok, but I leave for a trip next Friday, any way to expedite?
+[2024-06-07 14:12:55] Agent (Krystina): Yes, we can upgrade to 2-day shipping since the issue was our error.
+[2024-06-07 14:13:12] Customer: That’s great, please do.
+[2024-06-07 14:13:30] Agent (Krystina): Done. You’ll receive tracking details by email.
+[2024-06-07 14:14:04] Customer: Appreciate the help, Krystina.
+[2024-06-07 14:14:21] Agent (Krystina): My pleasure, Raymond. Is there anything else I can help with today?
+[2024-06-07 14:14:40] Customer: No, that covers it.
+[2024-06-07 14:14:58] Agent (Krystina): Great, have a nice trip!
+[2024-06-07 14:15:05] Customer: Thanks, take care.
+
+--- SESSION SUMMARY ---
+Case Number: CAS-20240607-5442
+Disposition: Replacement order created, expedited shipping
+Handling Tags: wrong-color, replacement, expedited-shipping
+Agent Sign-off: Krystina Cummerata

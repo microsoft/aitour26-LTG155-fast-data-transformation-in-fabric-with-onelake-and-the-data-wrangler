@@ -1,0 +1,52 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 8daf9c61-a7a7-4893-ad39-8bcd8d91bceb
+SessionId: S34821
+Channel: WebChat
+Locale: es-ES
+StartTime: 2024-06-12T15:02:18Z
+EndTime: 2024-06-12T15:36:49Z
+ProductId: dcbc26c2-7e1a-4c03-ae0d-7b43de9d8c08
+Product: Aura Field Lumalux Light Weight Illuminated Hooded Jacket - CharcoalSilver S
+AgentId: bad56ed7-679f-49e4-af5d-233360086458
+Agent: Audrey Runolfsdottir | gerson.carroll@zava.com | (506) 871-2944 x42634
+CustomerId: 7908e87b-b967-4d91-98dc-838ced0da9d8
+Customer: Vincenzo Koelpin | Vincenzo28@gmail.com | 1-801-436-5588 x055
+CustomerAddress: 2245 Calle Ladera, Schambergermouth, TX 78566, USA
+CustomerDOB: 04/22/1985
+LoyaltyId: ZAVA30288455
+OrderNumber: ORD-US-849223-LX
+Payment: Card Visa 4929394028374455 | Exp 07/27
+
+[2024-06-12 15:02:18] Customer: Hola, compré la chaqueta iluminada Aura Field Lumalux talla S hace una semana y ya no encienden las luces.
+[2024-06-12 15:03:02] Agent (Audrey): Buenas tardes, Vincenzo. Entiendo lo que nos comenta. ¿Podría confirmarme su número de pedido y la dirección de entrega?
+[2024-06-12 15:03:45] Customer: Sí, el número de orden es ORD-US-849223-LX y la dirección fue 2245 Calle Ladera, Schambergermouth, TX 78566.
+[2024-06-12 15:04:12] Agent (Audrey): Perfecto, gracias. Un momento mientras verifico en el sistema.
+[2024-06-12 15:04:50] *** AUTH VERIFIED via one-time code sent to v****zo28@gmail.com
+[2024-06-12 15:05:21] Agent (Audrey): He encontrado su pedido. La chaqueta tiene garantía de 12 meses. Vamos a realizar algunas pruebas rápidas.
+[2024-06-12 15:06:02] Customer: Está bien, aunque ya revisé las pilas y los cables y todo parece correcto.
+[2024-06-12 15:06:35] Agent (Audrey): ¿Podría mantener presionado el botón de encendido durante 10 segundos?
+[2024-06-12 15:07:10] Customer: Lo intento... No, sigue igual sin encender.
+[2024-06-12 15:07:42] Agent (Audrey): Gracias por probarlo. Posiblemente sea un problema interno del módulo LED.
+[2024-06-12 15:08:10] Customer: Esto es frustrante, la compré para un viaje y me voy mañana.
+[2024-06-12 15:08:50] Agent (Audrey): Entiendo la urgencia. Podemos ofrecerle un reemplazo express o un reembolso.
+[2024-06-12 15:09:15] Customer: Necesito el reemplazo enviado hoy.
+[2024-06-12 15:09:58] Agent (Audrey): De acuerdo, voy a tramitar un RMA y envío urgente.
+[2024-06-12 15:10:20] *** RMA CREATED: RMA-20240612-9923
+[2024-06-12 15:10:48] Agent (Audrey): El reemplazo se enviará a la misma dirección por mensajería nocturna.
+[2024-06-12 15:11:10] Customer: ¿Debo devolver la chaqueta defectuosa?
+[2024-06-12 15:11:45] Agent (Audrey): Sí, adjuntaremos una etiqueta de devolución prepagada.
+[2024-06-12 15:12:15] Customer: Perfecto, gracias.
+[2024-06-12 15:14:05] Agent (Audrey): Vincenzo, acabo de confirmar que el reemplazo saldrá hoy antes de las 17h.
+[2024-06-12 15:14:32] Customer: Excelente, así llegaré a tiempo para mi viaje.
+[2024-06-12 15:15:10] Agent (Audrey): Algo más en lo que pueda ayudarle hoy?
+[2024-06-12 15:15:35] Customer: No, eso sería todo. Muchas gracias.
+[2024-06-12 15:16:01] Agent (Audrey): Un placer atenderle. Seguro recibirá el seguimiento por correo.
+
+---
+Resumen de sesión:
+Caso número: CAS-584992
+Disposición: Reemplazo autorizado y envío urgente
+Etiquetas: Garantía, Producto defectuoso, Cliente VIP
+Atendido por: Audrey Runolfsdottir

@@ -1,0 +1,54 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: dbd16a9d-69fc-4ca8-8114-63e1f8eaa58d
+SessionId: LCS52914
+Channel: WebChat
+Locale: en-US
+StartTime: 2024-06-18T14:03:19Z
+EndTime: 2024-06-18T14:48:57Z
+ProductId: b16aef9f-aa76-4590-afa3-a395bda39114
+Product: Aura Field Elite Athletic Long Sleeve Top - DeepRedRed XXL
+AgentId: aeb17e11-0c2a-4f9a-98a7-f832b4a90c1f
+Agent: Hugh Spinka | heather.steuber@zava.com | 1-637-899-0718
+CustomerId: c3c1edc6-84ad-4d98-82ca-ab73fe3dcbb6
+Customer: Jammie Kreiger | Jammie58@hotmail.com | 1-817-851-4200
+CustomerAddress: 42 Willow Brook Rd, Lake Rubyfort, VT 05602, USA
+CustomerDOB: 08/12/1983
+LoyaltyId: ZA84520938
+OrderNumber: ORD-774395-A
+Payment: Card Visa 4539782210394857 | Exp 11/26
+
+[2024-06-18 14:03:19] Customer: Hi, I just received my order yesterday but there’s an issue with the size.
+[2024-06-18 14:04:10] Agent (Hugh): Hello Jammie, I can help with that. Can I confirm your order number and the size you received?
+[2024-06-18 14:04:38] Customer: It’s ORD-774395-A. I ordered XXL but I think I’ve been sent an XL.
+[2024-06-18 14:05:11] Agent (Hugh): Let me check the fulfillment records. Could you also verify your shipping zip code?
+[2024-06-18 14:05:29] Customer: Sure, 05602.
+*** AUTH VERIFIED via one-time code sent to J***e58@hotmail.com
+[2024-06-18 14:06:22] Agent (Hugh): Thanks, Jammie. I see the warehouse did mark it as XXL in the system, but mistakes happen. Can you measure the chest width from seam to seam?
+[2024-06-18 14:07:14] Customer: Yeah, hold on... it's about 24 inches.
+[2024-06-18 14:07:45] Agent (Hugh): That measurement actually corresponds to XL. I apologize for the mix-up.
+[2024-06-18 14:08:12] Customer: This is frustrating, I needed it for a race this weekend.
+[2024-06-18 14:08:59] Agent (Hugh): I understand the urgency. We can arrange express replacement. Would you like that shipped to the same address at 42 Willow Brook Rd, Lake Rubyfort?
+[2024-06-18 14:09:22] Customer: Yes, same address.
+[2024-06-18 14:09:56] Agent (Hugh): Great. We’ll send the XXL overnight. You’ll get it by Thursday.
+[2024-06-18 14:10:14] Customer: Do I need to send the wrong one back first?
+[2024-06-18 14:10:35] Agent (Hugh): We’ll include a prepaid return label in the package.
+[2024-06-18 14:11:05] Customer: Ok sounds good.
+[2024-06-18 14:11:44] Agent (Hugh): Also, I’ll apply a 15% discount to your original payment card **Visa ending 4857** for the inconvenience.
+[2024-06-18 14:12:18] Customer: Appreciate that.
+*** RMA CREATED: RMA-99218421
+[2024-06-18 14:13:09] Agent (Hugh): Here’s your return authorization number: RMA-99218421. Use the label we send.
+[2024-06-18 14:13:41] Customer: Will do.
+[2024-06-18 14:14:07] Agent (Hugh): You should receive a tracking email shortly to the Jammie58@hotmail.com address.
+[2024-06-18 14:14:29] Customer: Ok, thanks again.
+[2024-06-18 14:14:50] Agent (Hugh): My pleasure. Anything else I can help with?
+[2024-06-18 14:15:06] Customer: No that's it.
+[2024-06-18 14:15:28] Agent (Hugh): Have a good day and good luck at your race!
+[2024-06-18 14:15:43] Customer: Thanks!
+
+--- SESSION SUMMARY ---
+CaseNumber: CAS-5849301
+Disposition: Replacement processed, RMA issued, discount applied
+HandlingTags: size_issue, express_shipping, customer_compensation
+AgentSignOff: Hugh Spinka

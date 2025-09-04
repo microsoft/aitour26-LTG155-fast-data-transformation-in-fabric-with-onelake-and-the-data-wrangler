@@ -1,0 +1,47 @@
+--- CHAT TRANSCRIPT EXPORT ---
+ExportSystem: LegacyChat Suite v3.2
+Organization: Zava Inc.
+TranscriptId: 0ed8a240-b8bf-4b29-88d2-a5f78bc89e79
+SessionId: G72KF3
+Channel: WebChat
+Locale: de-DE
+StartTime: 2024-05-14T08:12:05+02:00
+EndTime: 2024-05-14T08:45:26+02:00
+ProductId: 57d7e354-bcbb-45cd-ba4e-d19a5ebf613f
+Product: Aura Field Elite Athletic Long Sleeve Top - CharcoalSilver XL
+AgentId: 90a0acb7-99d5-4d3e-b1f0-ba0178f1dee8
+Agent: Adrain Christiansen | emilia.roberts@zava.com | 345-422-2935
+CustomerId: 88a29ff2-daa8-49aa-aa1c-6e3a18988197
+Customer: Cleta Gutkowski | Cleta39@hotmail.com | 596.468.6869
+CustomerAddress: Hauptstrasse 24, West Jaiden, , , Germany
+CustomerDOB: 03/22/1985
+LoyaltyId: DE9738459201
+OrderNumber: DE-45872-2024
+Payment: Card VISA 4716987654321023 | Exp 09/26
+
+[2024-05-14 08:12:05] Customer: Guten Morgen, ich habe letzte Woche Ihr Langarmshirt bestellt, aber ich glaube, die Größe passt nicht.
+[2024-05-14 08:12:22] Agent (Adrain): Guten Morgen Frau Gutkowski, ich helfe Ihnen gerne weiter. Können Sie mir bitte Ihre Bestellnummer nennen?
+[2024-05-14 08:12:35] Customer: Ja, die Nummer ist DE-45872-2024.
+[2024-05-14 08:12:53] Agent (Adrain): Vielen Dank. Einen Moment bitte, ich prüfe den Status.
+[2024-05-14 08:13:14] Agent (Adrain): Laut System wurde die Bestellung am 7. Mai versendet und am 9. Mai zugestellt.
+[2024-05-14 08:13:32] Customer: Ja, angekommen ist es. Aber es ist zu groß, ich bräuchte stattdessen Größe L.
+[2024-05-14 08:13:54] Agent (Adrain): Kein Problem. Wir können einen Umtausch veranlassen.
+*** AUTH VERIFIED via one-time code sent to C***a39@hotmail.com
+[2024-05-14 08:14:15] Agent (Adrain): Bitte bestätigen Sie mir Ihre Lieferadresse, damit ich das RMA-Formular erstellen kann.
+[2024-05-14 08:14:42] Customer: Hauptstrasse 24, West Jaiden, Germany.
+[2024-05-14 08:15:05] Agent (Adrain): Danke. Ich erstelle nun den Rücksendeschein.
+*** RMA CREATED: RMA-DE-78349021
+[2024-05-14 08:15:36] Agent (Adrain): Sie erhalten gleich eine E-Mail mit dem Versandlabel. Sobald wir den Artikel zurückerhalten, senden wir die Größe L.
+[2024-05-14 08:15:52] Customer: Super. Fallen für mich Kosten an?
+[2024-05-14 08:16:12] Agent (Adrain): Nein, der Umtausch ist für Sie kostenlos.
+[2024-05-14 08:16:29] Customer: Ok, danke für den schnellen Service.
+[2024-05-14 08:16:48] Agent (Adrain): Sehr gerne. Noch etwas, wobei ich helfen kann?
+[2024-05-14 08:17:02] Customer: Nein, das war alles. Einen schönen Tag!
+[2024-05-14 08:17:21] Agent (Adrain): Ebenfalls einen schönen Tag, Frau Gutkowski.
+
+--- SESSION FOOTER ---
+Summary: Kundin meldete falsche Größe, RMA erstellt, Ersatzgröße L veranlasst.
+CaseNumber: DE-CASE-509384
+Disposition: Austausch eingeleitet
+Tags: Rückgabe, Umtausch, Bekleidung
+AgentSignOff: Adrain Christiansen
