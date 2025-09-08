@@ -10,15 +10,15 @@ Prepping data shouldn’t feel like a chore. See how multi-cloud OneLake shortcu
 
 Prior to delivering the workshop please:
 
-1.  Read this document and all included resources included in their entirety.
-2.  Watch the video presentation
-3.  Ask questions of the content leads! We're here to help!
+1. Read this document and all included resources included in their entirety.
+1. Watch the video presentation
+1. Ask questions of the content leads! We're here to help!
 
 ## 📁 File Summary
 
 | Resources  | Links                           | Description                                                                     |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------- |
-| Slide Deck | [Presentation](https://aka.ms/) | Presentation slides for this talk with presenter notes and embedded demo videos |
+| Slide Deck | [Presentation](https://aka.ms/AAxubxj) | Presentation slides for this talk with presenter notes and embedded demo videos |
 
 ## 🚀Get Started
 
