@@ -27,11 +27,6 @@ By the end of this lightning talk, attendees will:
 1. Microsoft Dataverse
 1. Azure Storage
 
-### 🔗 Session Resources
-
-| Resources                             | Links                                                                                       | Description                    |
-| :------------------------------------ | :------------------------------------------------------------------------------------------ | :----------------------------- |
-| Additional Resources for this session | [https://learn.microsoft.com](https://learn.microsoft.com?ocid=AITour26_resourcecenter_cnl) | Links specific to this session |
 
 ### 📚 Continued Learning Resources
 
